@@ -79,4 +79,5 @@ venv.bak/
 .idea/workspace.xml
 .venv/
 
-
+/db.sqlite3
+user/migrations

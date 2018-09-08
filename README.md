@@ -1,0 +1,2 @@
+# project
+Practica django
